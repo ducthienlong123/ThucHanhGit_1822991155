@@ -1,0 +1,43 @@
+/* Giao diện cơ bản cho bài thực hành Git & GitHub */
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+    background: #f3f6fb;
+    color: #263238;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 32px;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+h1 {
+    color: #1769aa;
+    text-align: center;
+}
+
+h2 {
+    color: #23845b;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.student-info {
+    margin-top: 28px;
+    padding: 20px;
+    background: #f5f9ff;
+    border-left: 4px solid #1769aa;
+    border-radius: 6px;
+}
